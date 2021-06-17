@@ -1,0 +1,29 @@
+[0mGET /orders/60cacb20198f7b3b6816b3f1 [33m404[0m 41.932 ms - 40[0m
+::1 - - [17/Jun/2021:04:21:49 +0000] "GET /orders/60cacb20198f7b3b6816b3f1 HTTP/1.1" 404 40
+::1 - GET /orders/60cacb20198f7b3b6816b3f1 HTTP/1.1 404 40 - 35.176 ms
+::1 - POST /products HTTP/1.1 201 113 - 69.788 ms
+::1 - POST /products HTTP/1.1 500 132 - 19.384 ms
+::1 - POST /products HTTP/1.1 500 132 - 18.711 ms
+::1 - POST /products HTTP/1.1 500 132 - 29.720 ms
+::1 - POST /products HTTP/1.1 500 132 - 17.937 ms
+::1 - POST /products HTTP/1.1 500 132 - 19.936 ms
+::1 - POST /products HTTP/1.1 201 114 - 62.549 ms
+::1 - POST /products HTTP/1.1 500 163 - 33.039 ms
+::1 - POST /products HTTP/1.1 201 114 - 63.904 ms
+::1 - POST /products HTTP/1.1 201 114 - 67.685 ms
+::1 - POST /products HTTP/1.1 201 172 - 63.638 ms
+::1 - GET /products HTTP/1.1 200 763 - 60.473 ms
+::1 - GET / HTTP/1.1 400 24 - 5.897 ms
+::1 - GET /favicon.ico HTTP/1.1 400 24 - 0.890 ms
+::1 - GET /products HTTP/1.1 200 763 - 30.684 ms
+::1 - GET /favicon.ico HTTP/1.1 400 24 - 0.870 ms
+::1 - GET /uploads/2021-06-17T05-28-53.298Zbat.jpg HTTP/1.1 200 3530 - 5.614 ms
+::1 - GET /favicon.ico HTTP/1.1 400 24 - 0.378 ms
+[0mGET /orders [32m200[0m 4180.496 ms - 417[0m
+::1 - GET /orders HTTP/1.1 200 417 - 58.365 ms
+::1 - POST /products HTTP/1.1 201 188 - 61.012 ms
+::1 - GET / HTTP/1.1 400 24 - 1.213 ms
+::1 - GET /favicon.ico HTTP/1.1 400 24 - 0.780 ms
+::1 - POST /products HTTP/1.1 201 186 - 76.613 ms
+::1 - GET /uploads/2021-06-17T05-51-36.824Zbat.jpg HTTP/1.1 200 3530 - 4.752 ms
+::1 - GET /favicon.ico HTTP/1.1 400 24 - 0.975 ms
